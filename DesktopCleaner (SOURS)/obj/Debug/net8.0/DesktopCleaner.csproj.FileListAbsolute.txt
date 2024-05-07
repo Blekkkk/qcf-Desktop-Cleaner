@@ -1,0 +1,14 @@
+C:\Users\qcf\Desktop\C#\DesktopCleaner\bin\Debug\net8.0\DesktopCleaner.exe
+C:\Users\qcf\Desktop\C#\DesktopCleaner\bin\Debug\net8.0\DesktopCleaner.deps.json
+C:\Users\qcf\Desktop\C#\DesktopCleaner\bin\Debug\net8.0\DesktopCleaner.runtimeconfig.json
+C:\Users\qcf\Desktop\C#\DesktopCleaner\bin\Debug\net8.0\DesktopCleaner.dll
+C:\Users\qcf\Desktop\C#\DesktopCleaner\bin\Debug\net8.0\DesktopCleaner.pdb
+C:\Users\qcf\Desktop\C#\DesktopCleaner\obj\Debug\net8.0\DesktopCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qcf\Desktop\C#\DesktopCleaner\obj\Debug\net8.0\DesktopCleaner.AssemblyInfoInputs.cache
+C:\Users\qcf\Desktop\C#\DesktopCleaner\obj\Debug\net8.0\DesktopCleaner.AssemblyInfo.cs
+C:\Users\qcf\Desktop\C#\DesktopCleaner\obj\Debug\net8.0\DesktopCleaner.csproj.CoreCompileInputs.cache
+C:\Users\qcf\Desktop\C#\DesktopCleaner\obj\Debug\net8.0\DesktopCleaner.dll
+C:\Users\qcf\Desktop\C#\DesktopCleaner\obj\Debug\net8.0\refint\DesktopCleaner.dll
+C:\Users\qcf\Desktop\C#\DesktopCleaner\obj\Debug\net8.0\DesktopCleaner.pdb
+C:\Users\qcf\Desktop\C#\DesktopCleaner\obj\Debug\net8.0\DesktopCleaner.genruntimeconfig.cache
+C:\Users\qcf\Desktop\C#\DesktopCleaner\obj\Debug\net8.0\ref\DesktopCleaner.dll
